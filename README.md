@@ -6,7 +6,7 @@
 
 ## Command and Control:
 	
-	So, i use arch linux, so..
+	I use arch linux, so..
 	[# pacman -S] -> install packages
 	
 	# pacman -Sy nmap
