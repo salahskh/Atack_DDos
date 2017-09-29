@@ -4,7 +4,6 @@
 
 
 
-
 ## Command and Control:
 	
 	So, i use arch linux, so..
